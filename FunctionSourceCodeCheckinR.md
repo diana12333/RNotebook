@@ -17,14 +17,14 @@ take function sample as example:
 getAnywhere('sample')
 ```
 it will return:
-![](/Users/dianshen/Desktop/Screen Shot 2019-11-11 at 11.03.20 AM.png)
+![](https://raw.githubusercontent.com/diana12333/RNotebook/master/pics/Screen%20Shot%202019-11-11%20at%2011.03.20%20AM.png)
 
 if more than one objects found see
 ```
 getAnywhere(summarise())
 ```
 it will return,
-![](/Users/dianshen/Desktop/Screen Shot 2019-11-11 at 11.08.47 AM.png)
+![](https://raw.githubusercontent.com/diana12333/RNotebook/master/pics/Screen%20Shot%202019-11-11%20at%2011.08.47%20AM.png)
  your can select summarise within **plyr** by 
  
 ```R
