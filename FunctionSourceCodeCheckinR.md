@@ -5,7 +5,7 @@ In daily life when we use the functions from a package. Some times we may confro
 **There are 2 methods that we can access the source code:**
 
 ## Download directly from CRAN
-Take the example of pwrAB package, you can find it from CRAN index,see [here](https://cran.r-project.org/web/packages/pwrAB/index.html). Download the **.tar.gz**, it will include all the function embeded in the package. ![Alt Image Text](/Users/dianshen/Desktop/Screen Shot 2019-11-11 at 10.52.03 AM.png "Optional Title")
+Take the example of pwrAB package, you can find it from CRAN index,see [here](https://cran.r-project.org/web/packages/pwrAB/index.html). Download the **.tar.gz**, it will include all the function embeded in the package. ![Alt Image Text](https://raw.githubusercontent.com/diana12333/RNotebook/master/pics/Screen%20Shot%202019-11-11%20at%2010.52.03%20AM.png "Optional Title")
 Some package might provide their github reposite, you can also pull code from their github webpacge.
 
 Don't forget to give a star for their contribution!
