@@ -1,4 +1,4 @@
-#Check the source code in R
+##Check the source code in R
 
 In daily life when we use the functions from a package. Some times we may confront with many unexpected bugs or need to trim this function for applying to out own problem. In either circumstance, we need to check the source code of r function.
 
